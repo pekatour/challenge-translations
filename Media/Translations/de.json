@@ -1,0 +1,43 @@
+{
+	"CREATE_CHALLENGE": "ERSTELLE DEINE EIGENE CHALLENGE",
+
+	"START": "START",
+	"EXIT": "BEENDEN",
+	"REPLAYS": "REPLAYS",
+	"STATISTICS": "STATISTIKEN",
+	"SETTINGS": "EINSTELLUNGEN",
+	"MADE_BY": "VON",
+	"LOCAL_MAPS": "LOKALE MAPS",
+	"MULTIPLE": "MEHRERE",
+	"OFFICIAL": "OFFIZIELL",
+	"LOCAL": "LOKAL",
+	"MAP_MANAGER": "MAP MANAGER",
+
+	"by": "von",
+	"scripts": "skripte",
+	"no_map_selected": "keine map ausgewählt",
+	"no_script_selected": "kein skript ausgewählt",
+
+	"TEST": "TEST",
+	"PUBLISH": "HOCHLADEN",
+	"DOCUMENTATION": "DOKUMENTATION",
+	"SCRIPT": "SKRIPT",
+	"BACK": "ZURÜCK",
+	
+	"WELCOME_TO_MODIFIER": "WILLKOMMEN ZUM MODIFIER",
+	"SAVE": "SPEICHERN",
+	"SAVE_AND_PLAY": "SPEICHERN UND SPIELEN",
+	"DONE": "FERTIG",
+	"SCRIPT_FINISHED": "Skript wurde erfolgreich ausgeführt.",
+	"TEST_SCRIPT": "TEST SKRIPT",
+	"MODIFYING": "MODIFYING",
+	"ACTIONS": "AKTIONEN",
+
+	"REVERSE_DESCRIPTION": "Tausche Start mit Finish.",
+	"CHECKPOINTLESS_DESCRIPTION": "Entferne alle Checkpoints und behalte die Löcher.",
+	"TERRAINLESS_DESCRIPTION": "Entferne das gesamte Terrain.",
+
+	"CHECKPOINT_FOUND": "Checkpoint gefunden.",
+	
+	"SCRIPT_NOTE": "All der geschreibene und veröffentlichte Code ist Open-Source, sodass jeder deine Programmier-Skills sehen kann. Du wurdest gewarnt."
+}
