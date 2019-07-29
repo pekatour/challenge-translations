@@ -19,8 +19,10 @@
 	"PLAYSESSIONS": "PLAYSESSIONY",
 	"NOW_PLAYING": "PRÁVĚ SE HRAJE",
 	"NEWS": "NOVINKY",
+	"SOLVE": "VYŘEŠIT",
 
 	"by": "od",
+	"modified_by": "modifikoval",
 	"scripts": "skriptů",
 	"no_map_selected": "nebyla vybrána žádná mapa",
 	"no_script_selected": "nebyl vybrán žádný skript",

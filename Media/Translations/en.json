@@ -19,8 +19,10 @@
 	"PLAYSESSIONS": "PLAYSESSIONS",
 	"NOW_PLAYING": "NOW PLAYING",
 	"NEWS": "NEWS",
+	"SOLVE": "SOLVE",
 
- 	"by": "by",	
+ 	"by": "by",
+ 	"modified_by": "modified by",
 	"scripts": "scripts",	
 	"no_map_selected": "no map selected",	
 	"no_script_selected": "no script selected",	
