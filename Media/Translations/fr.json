@@ -43,7 +43,7 @@
 	"NOT_COMPUTED": "OMBRES NON CALCULÉES",
 	"VERY_FAST": "TRÈS RAPIDE",
 	"FAST": "RAPIDE",
-	"DEFAULT": "DÉFAUT",
+	"DEFAULT": "PAR DÉFAUT",
 	"HIGH": "HAUT",
 	"ULTRA": "ULTRA",
 	"SHADOW_QUALITY": "QUALITÉ D'OMBRES",
@@ -55,13 +55,13 @@
 
 	"REVERSE_DESCRIPTION": "Échange départ et fin.",
 	"CHECKPOINTLESS_DESCRIPTION": "Enlève tous les checkpoints sans les remplacer.",
-	"COMEBACK_DESCRIPTION": "Remplace le départ avec un multilap et le finish avec un checkpoint.",
-	"NOCP_DESCRIPTION": "Remplace tous les checkpoints avec leur variante route.",
+	"COMEBACK_DESCRIPTION": "Remplace le départ par un bloc multilap et le finish par un checkpoint.",
+	"NOCP_DESCRIPTION": "Remplace tous les checkpoints par le bloc de route sans checkpoint.",
 
 	"CHECKPOINT_FOUND": "Checkpoint trouvé.",
 	"replaced_with": "remplacé par",
 
-	"SCRIPT_NOTE": "Tout le code écrit et publié est disponible en open-source, ce qui signifie que tout le monde peut voir tes talents de codage. Tu es prévenu.",
+	"SCRIPT_NOTE": "Tout le code écrit et publié est disponible en open-source, ce qui signifie que tout le monde peut voir tes talents de programmateur. Tu es prévenu.",
 
 	"AUTHBETA_WELCOME": "BIENVENUE DANS LA BETA DE CHALLENGE",
 	"AUTHBETA_GIVEINFO": "REMPLIS LES INFORMATIONS CI-DESSOUS POUR PARTICIPER A LA BETA",
