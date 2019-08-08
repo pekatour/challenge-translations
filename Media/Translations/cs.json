@@ -80,7 +80,7 @@
 	"PROBLEM_MULTILAP_TRACK_LONG_CHECKPOINTLESS": "Tato trať je multilap, který není považovaný za onelap s jedním nebo více cíly. Tuto mapu nelze udělat Checkpointless.",
 	"PROBLEM_MULTIPLE_FINISHES": "Mapa má víc než jeden cíl.",
 	"PROBLEM_MULTIPLE_FINISHES_LONG": "Tato trať má víc cílů. Skript nedokáže zautomatizovat výměnu cíle.",
-	"PROBLEM_MULTIPLE_FINISHES_LONG_SOLUTION_1": "Odstraň cíl který chceš vyměnit za start. Start se automaticky položí.",
+	"PROBLEM_MULTIPLE_FINISHES_SOLUTION_1": "Odstraň cíl který chceš vyměnit za start. Start se automaticky položí.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP": "Nelze vyměnit multilap.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_LONG": "Multilap je item. Skript ho sice pravděpodobně dokáže odstranit, ale neumí položit jeho start variantu.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1": "Vyměň multilap item manuálně za jeho možný podobný cíl.",
