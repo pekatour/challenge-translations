@@ -80,7 +80,7 @@
 	"PROBLEM_MULTILAP_TRACK_LONG_CHECKPOINTLESS": "This track has a multilap which isn't considered as one lap with one or more finishes. This map can't be made Checkpointless.",
 	"PROBLEM_MULTIPLE_FINISHES": "The map has more than one finish.",
 	"PROBLEM_MULTIPLE_FINISHES_LONG": "This track has multiple finishes. Script is not able to automate the finish replacement process.",
-	"PROBLEM_MULTIPLE_FINISHES_SOLUTION_1": "Delete the finish you want to replace with its start variant. Start will be placed automatically.",
+	"PROBLEM_MULTIPLE_FINISHES_SOLUTION_1": "Select this finish to replace with its start variant. Replacement will be automatic.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP": "Cannot replace multilap.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_LONG": "Multilap is an item. Script can probably remove it, but can't place its start variant.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1": "Replace the multilap item manually with a possible finish variant.",
