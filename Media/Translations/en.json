@@ -85,7 +85,7 @@
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_LONG": "Multilap is an item. Script can probably remove it, but can't place its start variant.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1": "Replace the multilap item manually with a possible finish variant.",
 	"PROBLEM_CANNOT_REPLACE_START": "Cannot replace start.",
-	"PROBLEM_CANNOT_REPLACE_START_LONG": "Start is an item. Script can probably remove it, but can't place its start variant.",
+	"PROBLEM_CANNOT_REPLACE_START_LONG": "Start is an item. Script can probably remove it, but can't place its finish variant.",
 	"PROBLEM_CANNOT_REPLACE_START_SOLUTION_1": "Replace the start item manually with a possible finish variant.",
 	"PROBLEM_CANNOT_REPLACE_FINISH": "Cannot replace finish.",
 	"PROBLEM_CANNOT_REPLACE_FINISH_LONG": "Finish is an item. Script can probably remove it, but can't place its start variant.",

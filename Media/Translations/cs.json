@@ -85,7 +85,7 @@
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_LONG": "Multilap je item. Skript ho sice pravděpodobně dokáže odstranit, ale neumí položit jeho start variantu.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1": "Vyměň multilap item manuálně za jeho možný podobný cíl.",
 	"PROBLEM_CANNOT_REPLACE_START": "Nelze vyměnit start.",
-	"PROBLEM_CANNOT_REPLACE_START_LONG": "Start je item. Skript ho sice pravděpodobně dokáže odstranit, ale neumí položit jeho start variantu.",
+	"PROBLEM_CANNOT_REPLACE_START_LONG": "Start je item. Skript ho sice pravděpodobně dokáže odstranit, ale neumí položit jeho finish variantu.",
 	"PROBLEM_CANNOT_REPLACE_START_SOLUTION_1": "Vyměň start item manuálně za jeho možný podobný cíl.",
 	"PROBLEM_CANNOT_REPLACE_FINISH": "Nelze vyměnit cíl.",
 	"PROBLEM_CANNOT_REPLACE_FINISH_LONG": "Finish je item. Skript ho sice pravděpodobně dokáže odstranit, ale neumí položit jeho start variantu.",
