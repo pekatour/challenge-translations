@@ -103,8 +103,12 @@
 	"PROBLEM_NO_CHECKPOINT": "Kein Checkpoint vorhanden.",
 	"PROBLEM_NO_CHECKPOINT_LONG": "Diese Map hat kein Checkpoint.",
 	"PROBLEM_CANNOT_REMOVE_CHECKPOINT": "Kann Checkpoint nicht entfernen.",
-	"PROBLEM_CANNOT_REMOVE_CHECKPOINT_LONG": "Dieser Checkpoint kann nicht via Skript entfernt werden. Der Block ist entweder ein Item oder möglicherweise ein Ghost-Block oder komisch platziert.",
+	"PROBLEM_CANNOT_REMOVE_CHECKPOINT_LONG": "Dieser Checkpoint kann nicht via Skript entfernt werden. Der Block oder das Item ist möglicherweise ein Ghost-Block oder komisch platziert.",
 	"PROBLEM_CANNOT_REMOVE_CHECKPOINT_SOLUTION_1": "Entferne den Checkpoint manuell.",
+	"PROBLEM_CANNOT_REMOVE_START": "Kann den Start nicht entfernen.",
+	"PROBLEM_CANNOT_REMOVE_START_LONG": "Der Start kann nicht via Skript entfernt werden. Der Block oder das Item ist möglicherweise ein Ghost-Block oder komisch platziert.",
+	"PROBLEM_CANNOT_REMOVE_START_SOLUTION_1": "Entferne den Start manuell.",
+	"PROBLEM_CANNOT_PLACE_GHOSTBLOCK": "Kann kein Ghost-Block platzieren.",
 
 	"AUTHBETA_WELCOME": "WILLKOMMEN ZUR CHALLENGE BETA",
 	"AUTHBETA_GIVEINFO": "BITTE GEBE UNS DIE NÖTIGEN INFO, UM ZU TESTEN",
