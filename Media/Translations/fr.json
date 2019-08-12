@@ -81,7 +81,7 @@
 	"PROBLEM_MULTIPLE_FINISHES": "The map has more than one finish.",
 	"PROBLEM_MULTIPLE_FINISHES_LONG": "Ce circuit a plusieures arrivées. Le script ne peut pas automatiser le processus de remplacement d'arrivée.",
 	"PROBLEM_MULTIPLE_FINISHES_SOLUTION_1": "Replace cette arrivée par un départ du même type.",
-	"PROBLEM_MULTIPLE_FINISHES_SOLUTION_2": "Replace cette arrivée par un départ du même type et effacer les arrivées restantes.",
+	"PROBLEM_MULTIPLE_FINISHES_SOLUTION_2": "Replace cette arrivée par un départ du même type et efface les arrivées restantes.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP": "Impossible de remplacer le multilap.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_LONG": "Le multilap est un item. Le script peut probablement l'effacer, mais ne peut pas placer un départ du même type.",
 	"PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1": "Replace le bloc de multilap manuellement par une possible arrivée du même type.",
@@ -123,7 +123,7 @@
 	"AUTHBETA_NOABUSE": "JE N'UTILISERAI JAMAIS CETTE INFORMATION DE MANIÈRE ABUSIVE",
 	"AUTHBETA_AUTHORIZE": "AUTORISER AVEC CHALLENGE",
 	"AUTHBETA_REQUESTTOKEN": "DEMANDE DE L'AUTH TOKEN EN COURS",
-	"AUTHBETA_NOTPART": "TU NE FAIS PAS PARTIE DE LA BETA"
+	"AUTHBETA_NOTPART": "TU NE FAIS PAS PARTIE DE LA BETA",
   "AUTHBETA_CONNECTIONERROR": "ERREUR DE CONNECTION",
 	"AUTHBETA_CONNECTIONLONG": " ÇA PREND PLUS DE TEMPS QUE PRÉVU"
 }
