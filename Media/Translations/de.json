@@ -19,13 +19,13 @@
 	"PLAYSESSIONS": "SPIELSITZUNGEN",
 	"NOW_PLAYING": "SPIELT NUN",
 	"NEWS": "NACHRICHTEN",
-    "SOLVE": "LÖSEN",
+	"SOLVE": "LÖSEN",
+	"LOADING": "LÄDT",
     
-    "by": "von",
-    "scripts": "Skripte",
- 	"modified_by": "modifiziert von",
-    "no_map_selected": "keine Map ausgewählt",
-    "no_script_selected": "kein Skript ausgewählt",
+	"by": "von",
+	"scripts": "Skripte",
+	"no_map_selected": "keine Map ausgewählt",
+	"no_script_selected": "kein Skript ausgewählt",
  
 	"TEST": "TEST",
 	"PUBLISH": "HOCHLADEN",
@@ -70,10 +70,10 @@
 	"COMEBACK_DESCRIPTION": "Ersetze Start mit Multilap und Finish mit einem Checkpoint.",
 	"NOCP_DESCRIPTION": "Ersetze alle Checkpoints mit der entsprechenden Straßenvariante.",
 
-    "CHECKPOINT_FOUND": "Checkpoint gefunden.",
+	"CHECKPOINT_FOUND": "Checkpoint gefunden.",
 	"replaced_with": "ersetzt mit",
 	 
-    "SCRIPT_NOTE": "All der geschreibene und veröffentlichte Code ist Open-Source, sodass jeder deine Programmier-Skills sehen kann. Du wurdest gewarnt.",
+	"SCRIPT_NOTE": "All der geschreibene und veröffentlichte Code ist Open-Source, sodass jeder deine Programmier-Skills sehen kann. Du wurdest gewarnt.",
     
 	"PROBLEM_MULTILAP_TRACK": "Die Map ist ein Multilap.",
 	"PROBLEM_MULTILAP_TRACK_LONG_REVERSE": "Die Map ist ein Multilap, die ein oder mehrere Ziele hat, jedoch nicht eine Runde geht. Die Map unterstützt kein Reverse.",
@@ -126,4 +126,4 @@
 	"AUTHBETA_NOTPART": "DU BIST NICHT TEIL DER BETA",
 	"AUTHBETA_CONNECTIONERROR": "FEHLER BEI DER VERBINDUNG",
 	"AUTHBETA_CONNECTIONLONG": "DIES DAUERT LÄNGER ALS ES SOLLTE"
-} 
+}
