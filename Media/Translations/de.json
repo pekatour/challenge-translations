@@ -111,6 +111,9 @@
 	"PROBLEM_CANNOT_REMOVE_START_LONG": "Der Start kann nicht via Skript entfernt werden. Der Block oder das Item ist möglicherweise ein Ghost-Block oder komisch platziert.",
 	"PROBLEM_CANNOT_REMOVE_START_SOLUTION_1": "Entferne den Start manuell.",
 	"PROBLEM_CANNOT_PLACE_GHOSTBLOCK": "Kann kein Ghost-Block platzieren.",
+	
+	"CREATED_TITLE_PACKS": "ERSTELLTE STATIONEN",
+	"CREATE_NEW_CHALLENGE_TITLE": "ERSTELLE NEUE CHALLENGE STATION",
 
 	"AUTHBETA_WELCOME": "WILLKOMMEN ZUR CHALLENGE BETA",
 	"AUTHBETA_GIVEINFO": "BITTE GEBE UNS DIE NÖTIGEN INFO, UM ZU TESTEN",
