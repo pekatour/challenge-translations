@@ -1,0 +1,133 @@
+CREATE_CHALLENGE: CRÉE TON PROPRE CHALLENGE
+
+START: COMMENCER
+EXIT: QUITTER
+REPLAYS: REPLAYS
+STATISTICS: STATISTIQUES
+SETTINGS: PARAMÈTRES
+MADE_BY: RÉALISÉ PAR
+LOCAL_MAPS: MAPS LOCALES
+MULTIPLE: MULTIPLE
+OFFICIAL: OFFICIEL
+LOCAL: LOCAL
+MAP_MANAGER: MANAGER DE MAP
+CREDITS: CRÉDITS
+ONLINE: EN LIGNE
+SKINS: SKINS
+LANGUAGES: LANGAGES
+PLAYSESSIONS: SESSION DE JEU
+NOW_PLAYING: EN TRAIN DE JOUER
+NEWS: NEWS
+SOLVE: RÉSOUDRE
+LOADING: CHARGEMENT
+CONTINUE: CONTINUER
+CHAT: CHAT
+MAP_NOT_CLOUDED: MAP NON PRISE EN CHARGE SUR LE CLOUD
+ORIGINAL: D'ORIGINE
+SAVE_REPLAY: SAUVEGARDER LE REPLAY
+
+by: par
+modified_by: modifié par
+scripts: scripts
+no_map_selected: aucune map sélectionnée
+no_script_selected: aucun script sélectionné
+
+TEST: TESTER
+PUBLISH: PUBLIER
+DOCUMENTATION: DOCUMENTATION
+SCRIPT: SCRIPT
+BACK: RETOUR
+
+WELCOME_TO_MODIFIER: BIENVENUE DANS LE MODIFIER
+SAVE: ENREGISTRER
+SAVE_AND_PLAY: SAUVEGARDER ET JOUER
+VALIDATE: VALIDER
+SOLVE_PROBLEMS: RÉSOUDRE LES PROBLÈMES
+DONE: FINI
+SCRIPT_FINISHED: Script accompli avec succès.
+SCRIPT_FINISHED_SUCCESSFULLY: Script exécuté avec succès.
+SCRIPT_FINISHED_UNSUCCESSFULLY: Script exécuté sans succès.
+TEST_SCRIPT: TESTER LE SCRIPT
+MODIFYING: EN COURS DE MODIFICATION
+ACTIONS: ACTIONS
+PROBLEMS: PROBLÈMES
+PROBLEM: PROBLÈME
+FATAL_PROBLEM: PROBLÈME FATAL
+LEAVE: QUITTER
+NEXT: SUIVANT
+POSSIBLE_SOLUTIONS: SOLUTIONS POSSIBLES
+
+NOT_COMPUTED: OMBRES NON CALCULÉES
+VERY_FAST: TRÈS RAPIDE
+FAST: RAPIDE
+DEFAULT: PAR DÉFAUT
+HIGH: HAUT
+ULTRA: ULTRA
+SHADOW_QUALITY: QUALITÉ D'OMBRES
+
+TRACKS: CARTES
+SHOW_PRIVATE: MONTRER LES PRIVÉES
+SEARCH_FOR: RECHERCHER
+MORE_FILTERS: PLUS DE FILTRES
+
+REVERSE_DESCRIPTION: Échange départ et fin.
+CHECKPOINTLESS_DESCRIPTION: Enlève tous les checkpoints sans les remplacer.
+COMEBACK_DESCRIPTION: Remplace le départ par un bloc multilap et l'arrivée par un checkpoint.
+NOCP_DESCRIPTION: Remplace tous les checkpoints par le bloc de route sans checkpoint.
+
+CHECKPOINT_FOUND: Checkpoint trouvé.
+replaced_with: remplacé par
+
+SCRIPT_NOTE: Tout le code écrit et publié est disponible en open-source, ce qui signifie que tout le monde peut voir tes talents de programmateur. Tu es prévenu.
+
+PROBLEM_MULTILAP_TRACK: Ce circuit est un multilap
+PROBLEM_MULTILAP_TRACK_LONG_REVERSE: Ce circuit est un multilap qui n'est pas considéré comme un tour avec une ou plusieures arrivées. Ce circuit ne peut pas être inversé.
+PROBLEM_MULTILAP_TRACK_LONG_CHECKPOINTLESS: Ce circuit est un multilap qui n'est pas considéré comme un tour avec une ou plusieures arrivées. Ce circuit ne peut pas être Checkpointless.
+PROBLEM_MULTIPLE_FINISHES: The map has more than one finish.
+PROBLEM_MULTIPLE_FINISHES_LONG: Ce circuit a plusieures arrivées. Le script ne peut pas automatiser le processus de remplacement d'arrivée.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_1: Replace cette arrivée par un départ du même type.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_2: Replace cette arrivée par un départ du même type et effacer les arrivées restantes.
+PROBLEM_CANNOT_REPLACE_MULTILAP: Impossible de remplacer le multilap.
+PROBLEM_CANNOT_REPLACE_MULTILAP_LONG: Le multilap est un item. Le script peut probablement l'effacer, mais ne peut pas placer un départ du même type.
+PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1: Replace le bloc de multilap manuellement par une possible arrivée du même type.
+PROBLEM_CANNOT_REPLACE_START: Impossible de remplacer le départ.
+PROBLEM_CANNOT_REPLACE_START_LONG: Le départ est un item. Le script peut probablement l'effacer, mais ne peut pas placer une arrivée du même type.
+PROBLEM_CANNOT_REPLACE_START_MULTILAP_LONG: Le départ est un item. Le script peut probablement l'effacer, mais ne peut pas placer un bloc de multilap du même type.
+PROBLEM_CANNOT_REPLACE_START_SOLUTION_1: Replace le bloc de départ manuellement par une possible arrivée du même type.
+PROBLEM_CANNOT_REPLACE_START_MULTILAP_SOLUTION_1: Replace le bloc de départ manuellement par un possible bloc de multilap du même type.
+PROBLEM_CANNOT_REPLACE_FINISH: Impossible de remplacer l'arrivée.
+PROBLEM_CANNOT_REPLACE_FINISH_LONG: L'arrivée est un item. Le script peut probablement l'effacer, mais ne peut pas placer un départ du même type.
+PROBLEM_CANNOT_REPLACE_FINISH_SOLUTION_1: Replace le bloc d'arrivée manuellement par un possible départ du même type.
+PROBLEM_CANNOT_ADJUST_ONELAP: Impossible d'ajuster le mode onelap.
+PROBLEM_CANNOT_ADJUST_ONELAP_LONG_CHECKPOINTLESS: Le multilap est un item. Le script peut probablement l'effacer, mais ne peut pas placer un départ du même type. Le remplacer par un départ du même type est demandé pour rendre le Checkpointless valide.
+PROBLEM_CANNOT_ADJUST_ONELAP_SOLUTION_1: Replace le bloc de multilap manuellement par un possible départ du même type.
+PROBLEM_BLOCK_MISSING: Bloc manquant
+PROBLEM_BLOCK_MISSING_LONG: Un bloc manque dans l'actuel set de blocs.
+PROBLEM_BLOCK_MISSING_SOLUTION_1: Contacte les auteurs de Challenge pour ajouter le bloc.
+PROBLEM_BLOCK_MISSING_SOLUTION_2: Ajoute le bloc toi-même via le créateur de blocs ou le mode macrobloc.
+PROBLEM_BLOCK_MISSING_SOLUTION_3: Place un bloc similaire qui fonctionnera de la même manière.
+PROBLEM_BLOCK_MISSING_SOLUTION_4: Attends que Nadeo ajoute ce bloc.
+PROBLEM_NO_CHECKPOINT": Pas de checkpoint.
+PROBLEM_NO_CHECKPOINT_LONG: Ce circuit n'a pas de checkpoint.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT: Impossible d'effacer le checkpoint.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT_LONG: Ce checkpoint ne peut pas être effacé via le script. Le bloc ou l'item a probablement été placé de manière bizarre ou en mode fantôme.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT_SOLUTION_1: Efface le checkpoint manuellement.
+PROBLEM_CANNOT_REMOVE_START: Impossible d'effacer le départ.
+PROBLEM_CANNOT_REMOVE_START_LONG: Ce départ ne peut pas être effacé via le script. Le bloc ou l'item a probablement été placé de manière bizarre ou en mode fantôme.
+PROBLEM_CANNOT_REMOVE_START_SOLUTION_1: Efface le départ manuellement
+PROBLEM_CANNOT_PLACE_GHOSTBLOCK: Impossible de placer le bloc en mode fantôme.
+	
+AUTHBETA_WELCOME: BIENVENUE DANS LA BETA DE CHALLENGE
+AUTHBETA_GIVEINFO: REMPLIS LES INFORMATIONS CI-DESSOUS POUR PARTICIPER A LA BETA
+AUTHBETA_YOURLOGIN: TON LOGIN
+AUTHBETA_YOURNICKNAME: TON PSEUDO
+AUTHBETA_YOURZONE: TA ZONE
+AUTHBETA_YOURMAPS: TES MAPS UPLOADÉES
+AUTHBETA_INFONOTE: TOUTES CES INFORMATIONS SERONT VISIBLES PUBLIQUEMENT, TE SONT ASSOCIÉES, ET SERONT ACTUALISÉES A CHAQUE LANCEMENT DU TITLEPACK.
+AUTHBETA_THANKYOU: MERCI
+AUTHBETA_NOABUSE: JE N'UTILISERAI JAMAIS CETTE INFORMATION DE MANIÈRE ABUSIVE
+AUTHBETA_AUTHORIZE: AUTORISER AVEC CHALLENGE
+AUTHBETA_REQUESTTOKEN: DEMANDE DE L'AUTH TOKEN EN COURS
+AUTHBETA_NOTPART: TU NE FAIS PAS PARTIE DE LA BETA
+AUTHBETA_CONNECTIONERROR: ERREUR DE CONNECTION
+AUTHBETA_CONNECTIONLONG: CA PREND PLUS DE TEMPS QUE PRÉVU
