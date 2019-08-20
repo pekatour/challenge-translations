@@ -1,0 +1,133 @@
+CREATE_CHALLENGE: CREATE YOUR OWN CHALLENGE
+
+START: START
+EXIT: EXIT
+REPLAYS: REPLAYS
+STATISTICS: STATISTICS
+SETTINGS: SETTINGS
+MADE_BY: MADE BY
+LOCAL_MAPS: LOCAL MAPS
+MULTIPLE: MULTIPLE
+OFFICIAL: OFFICIAL
+LOCAL: LOCAL
+MAP_MANAGER: MAP MANAGER
+CREDITS: CREDITS
+ONLINE: ONLINE
+SKINS: SKINS
+LANGUAGES: LANGUAGES
+PLAYSESSIONS: PLAYSESSIONS
+NOW_PLAYING: NOW PLAYING
+NEWS: NEWS
+SOLVE: SOLVE
+LOADING: LOADING
+CONTINUE: CONTINUE
+CHAT: CHAT
+MAP_NOT_CLOUDED: MAP NOT CLOUDED
+ORIGINAL: ORIGINAL
+SAVE_REPLAY: SAVE REPLAY
+
+by: by
+modified_by: modified by
+scripts: scripts
+no_map_selected: no map selected
+no_script_selected: no script selected
+
+TEST: TEST
+PUBLISH: PUBLISH
+DOCUMENTATION: DOCUMENTATION
+SCRIPT: SCRIPT
+BACK: BACK
+
+WELCOME_TO_MODIFIER: WELCOME TO MODIFIER
+SAVE: SAVE
+SAVE_AND_PLAY: SAVE AND PLAY
+VALIDATE: VALIDATE
+SOLVE_PROBLEMS: SOLVE PROBLEMS
+DONE: DONE
+SCRIPT_FINISHED: Script finished.
+SCRIPT_FINISHED_SUCCESSFULLY: Script finished successfully.
+SCRIPT_FINISHED_UNSUCCESSFULLY: Script finished unsuccessfully.
+TEST_SCRIPT: TEST SCRIPT
+MODIFYING: MODIFYING
+ACTIONS: ACTIONS
+PROBLEMS: PROBLEMS
+PROBLEM: PROBLEM
+FATAL_PROBLEM: FATAL PROBLEM
+LEAVE: LEAVE
+NEXT: NEXT
+POSSIBLE_SOLUTIONS: POSSIBLE SOLUTIONS
+
+NOT_COMPUTED: NOT COMPUTED
+VERY_FAST: VERY FAST
+FAST: FAST
+DEFAULT: DEFAULT
+HIGH: HIGH
+ULTRA: ULTRA
+SHADOW_QUALITY: SHADOW QUALITY
+
+TRACKS: TRACKS
+SHOW_PRIVATE: SHOW PRIVATE
+SEARCH_FOR: SEARCH FOR
+MORE_FILTERS: MORE FILTERS
+
+REVERSE_DESCRIPTION: Swaps start with finish.
+CHECKPOINTLESS_DESCRIPTION: Removes all checkpoints but keeps the holes.
+COMEBACK_DESCRIPTION: Replaces start with multilap and finish with checkpoint.
+NOCP_DESCRIPTION: Replaces all checkpoints with their road variant.
+
+CHECKPOINT_FOUND: Checkpoint found.
+replaced_with: replaced with
+	
+SCRIPT_NOTE: All written and published code is available open source, which means everyone can see your coding skills. You have been warned.
+
+PROBLEM_MULTILAP_TRACK: The map is multilap.
+PROBLEM_MULTILAP_TRACK_LONG_REVERSE: This track has a multilap which isn't considered as one lap with one or more finishes. This map can't be reversed.
+PROBLEM_MULTILAP_TRACK_LONG_CHECKPOINTLESS: This track has a multilap which isn't considered as one lap with one or more finishes. This map can't be made Checkpointless.
+PROBLEM_MULTIPLE_FINISHES: The map has more than one finish.
+PROBLEM_MULTIPLE_FINISHES_LONG: This track has multiple finishes. Script is not able to automate the finish replacement process.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_1: Replace this finish with its start variant.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_2: Replace this finish with its start variant and remove the remaining finishes.
+PROBLEM_CANNOT_REPLACE_MULTILAP: Cannot replace multilap.
+PROBLEM_CANNOT_REPLACE_MULTILAP_LONG: Multilap is an item. Script can probably remove it, but can't place its start variant.
+PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1: Replace the multilap item manually with a possible finish variant.
+PROBLEM_CANNOT_REPLACE_START: Cannot replace start.
+PROBLEM_CANNOT_REPLACE_START_LONG: Start is an item. Script can probably remove it, but can't place its finish variant.
+PROBLEM_CANNOT_REPLACE_START_MULTILAP_LONG: Start is an item. Script can probably remove it, but can't place its multilap variant.
+PROBLEM_CANNOT_REPLACE_START_SOLUTION_1: Replace the start item manually with a possible finish variant.
+PROBLEM_CANNOT_REPLACE_START_MULTILAP_SOLUTION_1: Replace the start item manually with a possible multilap variant.
+PROBLEM_CANNOT_REPLACE_FINISH: Cannot replace finish.
+PROBLEM_CANNOT_REPLACE_FINISH_LONG: Finish is an item. Script can probably remove it, but can't place its start variant.
+PROBLEM_CANNOT_REPLACE_FINISH_SOLUTION_1: Replace the finish item manually with a possible start variant.
+PROBLEM_CANNOT_ADJUST_ONELAP: Cannot adjust onelap.
+PROBLEM_CANNOT_ADJUST_ONELAP_LONG_CHECKPOINTLESS: Multilap is an item. Script can't replace it with any start variant. Replacing it with start variant is needed to make Checkpointless valid.
+PROBLEM_CANNOT_ADJUST_ONELAP_SOLUTION_1: Replace the multilap item manually with a possible start variant.
+PROBLEM_BLOCK_MISSING: Block missing
+PROBLEM_BLOCK_MISSING_LONG: Block is missing in the current blockset.
+PROBLEM_BLOCK_MISSING_SOLUTION_1: Contact the authors of Challenge to add the block.
+PROBLEM_BLOCK_MISSING_SOLUTION_2: Add the block by yourself via block creator or macroblock.
+PROBLEM_BLOCK_MISSING_SOLUTION_3: Place a similar block that will function the same.
+PROBLEM_BLOCK_MISSING_SOLUTION_4: Wait before Nadeo will add the block.
+PROBLEM_NO_CHECKPOINT: No checkpoint.
+PROBLEM_NO_CHECKPOINT_LONG: The track has no checkpoint.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT: Cannot remove checkpoint.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT_LONG: This checkpoint can't be removed via script. The block or item is possibly ghost type or weirdly placed.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT_SOLUTION_1: Remove the checkpoint manually.
+PROBLEM_CANNOT_REMOVE_START: Cannot remove start.
+PROBLEM_CANNOT_REMOVE_START_LONG: This start can't be removed via script. The block or item is possibly ghost type or weirdly placed.
+PROBLEM_CANNOT_REMOVE_START_SOLUTION_1: Remove the start manually.
+PROBLEM_CANNOT_PLACE_GHOSTBLOCK: Cannot place ghost block.
+
+AUTHBETA_WELCOME: WELCOME TO CHALLENGE BETA
+AUTHBETA_GIVEINFO: PLEASE GIVE US NEEDED INFO BELOW TO BETA TEST
+AUTHBETA_YOURLOGIN: YOUR LOGIN
+AUTHBETA_YOURNICKNAME: YOUR NICKNAME
+AUTHBETA_YOURZONE: YOUR ZONE
+AUTHBETA_YOURMAPS: YOUR UPLOADED MAPS
+AUTHBETA_INFONOTE: ALL OF THIS INFORMATION WILL BE PUBLICLY VISIBLE, ASSOCIATED WITH YOU, AND WILL BE REFRESHED EVERYTIME YOU LOAD THE TITLE PACK.
+AUTHBETA_THANKYOU: THANK YOU
+AUTHBETA_NOABUSE: I WON'T EVER USE THIS INFORMATION IN AN ABUSIVE WAY
+AUTHBETA_AUTHORIZE: AUTHORIZE WITH CHALLENGE
+AUTHBETA_REQUESTTOKEN: REQUESTING AUTH TOKEN
+AUTHBETA_NOTPART: YOU'RE NOT PART OF THE BETA
+AUTHBETA_CONNECTIONERROR: CONNECTION ERROR
+AUTHBETA_CONNECTIONLONG: THIS TAKES LONGER THAN IT SHOULD
