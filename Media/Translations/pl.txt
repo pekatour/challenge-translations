@@ -1,0 +1,133 @@
+CREATE_CHALLENGE:  STWÓRZ WŁASNY CHALLENGE 	
+
+START:  START 	
+EXIT:  WYJŚĆIE 	
+REPLAYS:  POWTÓRKI 	
+STATISTICS:  STATYSTYKI 	
+SETTINGS:  USTAWIENIA 
+MADE_BY:  STWORZONE PRZEZ 	
+LOCAL_MAPS:  TRASY LOKALNE 	
+MULTIPLE:  POŁĄCZ 	
+OFFICIAL:  OFICJALNY 	
+LOCAL:  LOKALNY 	
+MAP_MANAGER:  MENEDŻER TRAS 
+CREDITS:  CREDITSY 
+ONLINE:  ONLINE 
+SKINS:  SKÓRKI 
+LANGUAGES:  JĘZYKI 
+PLAYSESSIONS:  SESJE GIER 
+NOW_PLAYING:  TERAZ GRANE 
+NEWS:  NOWOŚCI 
+SOLVE:  ROZWIĄŻ 
+LOADING:  WCZYTYWANIE 
+CONTINUE: KONTYNUUJ
+CHAT: CHAT
+MAP_NOT_CLOUDED: MAPA NIE W CHMURZE
+ORIGINAL: ORYGINAŁ
+SAVE_REPLAY: ZAPISZ POWTÓRKE
+	
+by:  od 
+modified_by:  zmodyfikował 	
+scripts:  skrypty 	
+no_map_selected:  nie wybrano mapy 	
+no_script_selected:  nie wybrano skryptu 	
+
+TEST:  TEST 	
+PUBLISH:  PUBLIKUJ 	
+DOCUMENTATION:  DOKUMENTACJA 	
+SCRIPT:  SKRYPT 	
+BACK:  WRÓĆ 	
+
+WELCOME_TO_MODIFIER:  WITAJ W MODYFIKATORZE 	
+SAVE:  ZAPISZ 	
+SAVE_AND_PLAY:  ZAPISZ I GRAJ 	
+VALIDATE:  ZWERYFIKUJ 
+SOLVE_PROBLEMS:  ROZWIĄŻ PROBLEMY 
+DONE:  UKOŃCZONO 	
+SCRIPT_FINISHED:  Skrypt zakończony. 
+SCRIPT_FINISHED_SUCCESSFULLY:  Skrypt zakończony pomyślnie. 
+SCRIPT_FINISHED_UNSUCCESSFULLY:  Skrypt zakończony niepowodzeniem. 	
+TEST_SCRIPT:  TESTUJ SKRYPT 	
+MODIFYING:  MODYFIKOWANIE 	
+ACTIONS:  AKCJE 
+PROBLEMS: PROBLEMY
+PROBLEM:  PROBLEM 
+FATAL_PROBLEM:  KRYTYCZNY PROBLEM 
+LEAVE: OPUŚĆ
+NEXT: NASTĘPNY
+POSSIBLE_SOLUTIONS: MOŻLIWE ROZWIĄZANIA
+
+NOT_COMPUTED:  NIE OBLICZONO 
+VERY_FAST:  BARDZO SZYBKIE 
+FAST:  SZYBKIE 
+DEFAULT:  DOMYŚLNE 
+HIGH:  WYSOKIE 
+ULTRA:  ULTRA
+SHADOW_QUALITY:  JAKOŚĆ CIENI 
+	
+TRACKS:  TRASY 
+SHOW_PRIVATE:  POKAŻ PRYWATNE 
+SEARCH_FOR:  SZUKAJ 
+MORE_FILTERS:  WIĘCEJ FILTRÓW 
+
+REVERSE_DESCRIPTION:  Zamienia start z metą. 	
+CHECKPOINTLESS_DESCRIPTION:  Usuwa wszystkie checkpointy ale zostawia dziury. 	
+COMEBACK_DESCRIPTION:  Zamienia start w multilap, a metę w checkpoint. 
+NOCP_DESCRIPTION:  Zastępuje wszystkie checkpointy ich drogowymi odpowiednikami. 
+
+CHECKPOINT_FOUND:  Znaleziono Checkpoint. 
+replaced_with:  zamieniono używając 
+
+SCRIPT_NOTE:  Cały napisany i opublikowany kod jest dostępny na warunkach open source, co oznacza, że każdy może zobaczyć wasze umiejętności kodowania. Zostaliście ostrzeżeni.
+
+PROBLEM_MULTILAP_TRACK: Ta trasa jest multilapem.
+PROBLEM_MULTILAP_TRACK_LONG_REVERSE: Ta trasa ma multilap ale nie jest wyścigiem z punktu A do punktu B, nie może zostać odwrócona.
+PROBLEM_MULTILAP_TRACK_LONG_CHECKPOINTLESS: Ta trasa ma multilap ale nie jest wyścigiem z punktu A do punktu B; przekształcenie na Checkpointless niemożliwe.
+PROBLEM_MULTIPLE_FINISHES: Ta trasa ma więcej niż jedną mete.
+PROBLEM_MULTIPLE_FINISHES_LONG: Ta trasa ma więcej niż jedną mete. Skrypt nie może samodzielnie wykonać zamiany.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_1: Zamień tę metę odpowiednim startem.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_2: Zamień tę metę odpowiednim startem i usuń pozostałe mety.
+PROBLEM_CANNOT_REPLACE_MULTILAP: Nie można zamienić multilapa.
+PROBLEM_CANNOT_REPLACE_MULTILAP_LONG: Multilap jest obiektem. Skrypt prawdopodobnie może go usunąć, ale nie może ustawić odpowiedniego startu.
+PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1: Zamień obiekt multilapu ręcznie odpowiednią metą.
+PROBLEM_CANNOT_REPLACE_START: Nie można zamienić startu.
+PROBLEM_CANNOT_REPLACE_START_LONG: Start jest obiektem. Skrypt prawdopodobnie może go usunąć, ale nie może ustawić odpowiedniej mety.
+PROBLEM_CANNOT_REPLACE_START_MULTILAP_LONG: Start jest obiektem. Skrypt prawdopodobnie może go usunąć, ale nie może ustawić odpowiedniego multilapa.
+PROBLEM_CANNOT_REPLACE_START_SOLUTION_1: Zamień obiekt startu ręcznie odpowiednią metą.
+PROBLEM_CANNOT_REPLACE_START_MULTILAP_SOLUTION_1: Zamień obiekt startu ręcznie odpowiednim multilapem.
+PROBLEM_CANNOT_REPLACE_FINISH: Nie można zamienić mety.
+PROBLEM_CANNOT_REPLACE_FINISH_LONG: Meta jest obiektem. Skrypt prawdopodobnie może go usunąć, ale nie może ustawić odpowiedniego startu.
+PROBLEM_CANNOT_REPLACE_FINISH_SOLUTION_1: Zamień obiekt mety ręcznie odpowiednim startem.
+PROBLEM_CANNOT_ADJUST_ONELAP: Niemożna dostosować Onelapa.
+PROBLEM_CANNOT_ADJUST_ONELAP_LONG_CHECKPOINTLESS: Multilap jest obiektem. Skrypt nie może go zamienić jakimkolwiek wariantem startu. Zamienienie go startem wymagane by stworzyć Checkpointless.
+PROBLEM_CANNOT_ADJUST_ONELAP_SOLUTION_1: Zamień obiekt multilapu ręcznie odpowiadającym startem.
+PROBLEM_BLOCK_MISSING: Brakuje bloku
+PROBLEM_BLOCK_MISSING_LONG: Brakuje bloku w obecnym zestawie bloków
+PROBLEM_BLOCK_MISSING_SOLUTION_1: Zawiadom autorów Challenge o potrzebie dodania bloku.
+PROBLEM_BLOCK_MISSING_SOLUTION_2: Stwórz blok samemu używając edytora, lub makrobloków.
+PROBLEM_BLOCK_MISSING_SOLUTION_3: Ustaw podobny blok który będzie działał tak samo.
+PROBLEM_BLOCK_MISSING_SOLUTION_4: Poczekaj aż Nadeo doda ten blok XD.
+PROBLEM_NO_CHECKPOINT: Brak checkpointów.
+PROBLEM_NO_CHECKPOINT_LONG: Ta trasa nie ma checkpointów.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT: Nie można usunąć checkpointa.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT_LONG: Checkpoint nie może zostać usunięty skryptem. Ten blok/obiekt może być ghostblokiem lub dziwnie ustawiony.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT_SOLUTION_1: Usuń checkpoint ręcznie.
+PROBLEM_CANNOT_REMOVE_START: Nie można usunąć startu.
+PROBLEM_CANNOT_REMOVE_START_LONG: Start nie może zostać usunięty skryptem. Ten blok/obiekt może być ghostblokiem lub dziwnie ustawiony.
+PROBLEM_CANNOT_REMOVE_START_SOLUTION_1: Usuń start ręcznie.
+PROBLEM_CANNOT_PLACE_GHOSTBLOCK: Nie można ustawić ghostbloka.
+
+AUTHBETA_WELCOME:  WITAJ W BECIE CHALLENGE 
+AUTHBETA_GIVEINFO:  PODAJ INFORMACJE POTRZEBNE DO BETATESTÓW 
+AUTHBETA_YOURLOGIN:  TWÓJ LOGIN 
+AUTHBETA_YOURNICKNAME:  TWÓJ NICK 
+AUTHBETA_YOURZONE:  TWOJA STREFA 
+AUTHBETA_YOURMAPS:  TWOJE ZUPLOADOWANE MAPY 
+AUTHBETA_INFONOTE:  WSZYSTKIE TE INFORMACJE BĘDĄ PUBLICZNIE WIDOCZNE, POWIĄZANE Z TOBĄ, I ODŚWIEŻANE PRZY KAŻDYM WCZYTANIU TEGO TITLE PACKA. 
+AUTHBETA_THANKYOU:  DZIĘKUJĘ 
+AUTHBETA_NOABUSE:  NIGDY NIE UŻYJĘ TYCH INFORMACJI W OFENSYWNY SPOSÓB 
+AUTHBETA_AUTHORIZE:  AUTHORIZE WITH CHALLENGE 
+AUTHBETA_REQUESTTOKEN:  ŻĄDAJ KLUCZA AUTORYZACJI 
+AUTHBETA_NOTPART:  NIE NALEŻYSZ DO BETY 
+AUTHBETA_CONNECTIONERROR:  BŁĄD POŁĄCZENIA 
+AUTHBETA_CONNECTIONLONG:  POŁĄCZENIE TRWA DŁUŻEJ NIŻ POWINNO 
