@@ -77,9 +77,9 @@ CHECKPOINTLESS_DESCRIPTION: Odstraní všechny checkpointy a zanechá díry po n
 COMEBACK_DESCRIPTION: Vymění start za multilap a cíl za checkpoint.
 NOCP_DESCRIPTION: Vymení všechny checkpointy za jejich variantu cesty.
 
-READING_ALL_STARTS: Čtu všechny starty
-READING_ALL_MULTILAPS: Čtu všechny multilapy
-READING_ALL_FINISHES: Čtu všechny cíle
+SEARCHING_ALL_STARTS: Hledám všechny starty
+SEARCHING_ALL_MULTILAPS: Hledám všechny multilapy
+SEARCHING_ALL_FINISHES: Hledám všechny cíle
 CONSIDERING_MULTILAP_TRACK: Zhodnocuji, jestli je trať na víc kol
 CHECKPOINT_FOUND: Checkpoint nalezen.
 replaced_with: vyměněn za

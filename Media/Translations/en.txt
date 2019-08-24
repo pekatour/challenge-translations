@@ -77,9 +77,9 @@ CHECKPOINTLESS_DESCRIPTION: Removes all checkpoints but keeps the holes.
 COMEBACK_DESCRIPTION: Replaces start with multilap and finish with checkpoint.
 NOCP_DESCRIPTION: Replaces all checkpoints with their road variant.
 
-READING_ALL_STARTS: Reading all starts
-READING_ALL_MULTILAPS: Reading all multilaps
-READING_ALL_FINISHES: Reading all finishes
+SEARCHING_ALL_STARTS: Searching all starts
+SEARCHING_ALL_MULTILAPS: Searching all multilaps
+SEARCHING_ALL_FINISHES: Searching all finishes
 CONSIDERING_MULTILAP_TRACK: Considering multilap track
 CHECKPOINT_FOUND: Checkpoint found.
 replaced_with: replaced with
