@@ -50,6 +50,7 @@ SCRIPT_FINISHED_SUCCESSFULLY: Skript byl úspěšně dokončen.
 SCRIPT_FINISHED_UNSUCCESSFULLY: Skript byl neúspěšně dokončen.
 TEST_SCRIPT: TESTOVACÍ SKRIPT
 MODIFYING: MODIFIKUJI
+EVALUATING: ZHODNOCUJI
 ACTIONS: AKCE
 PROBLEMS: PROBLÉMY
 PROBLEM: PROBLÉM
@@ -76,6 +77,10 @@ CHECKPOINTLESS_DESCRIPTION: Odstraní všechny checkpointy a zanechá díry po n
 COMEBACK_DESCRIPTION: Vymění start za multilap a cíl za checkpoint.
 NOCP_DESCRIPTION: Vymení všechny checkpointy za jejich variantu cesty.
 
+READING_ALL_STARTS: Čtu všechny starty
+READING_ALL_MULTILAPS: Čtu všechny multilapy
+READING_ALL_FINISHES: Čtu všechny cíle
+CONSIDERING_MULTILAP_TRACK: Zhodnocuji, jestli je trať na víc kol
 CHECKPOINT_FOUND: Checkpoint nalezen.
 replaced_with: vyměněn za
 

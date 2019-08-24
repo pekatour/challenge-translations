@@ -50,6 +50,7 @@ SCRIPT_FINISHED_SUCCESSFULLY: Script finished successfully.
 SCRIPT_FINISHED_UNSUCCESSFULLY: Script finished unsuccessfully.
 TEST_SCRIPT: TEST SCRIPT
 MODIFYING: MODIFYING
+EVALUATING: EVALUATING
 ACTIONS: ACTIONS
 PROBLEMS: PROBLEMS
 PROBLEM: PROBLEM
@@ -76,6 +77,10 @@ CHECKPOINTLESS_DESCRIPTION: Removes all checkpoints but keeps the holes.
 COMEBACK_DESCRIPTION: Replaces start with multilap and finish with checkpoint.
 NOCP_DESCRIPTION: Replaces all checkpoints with their road variant.
 
+READING_ALL_STARTS: Reading all starts
+READING_ALL_MULTILAPS: Reading all multilaps
+READING_ALL_FINISHES: Reading all finishes
+CONSIDERING_MULTILAP_TRACK: Considering multilap track
 CHECKPOINT_FOUND: Checkpoint found.
 replaced_with: replaced with
 	
