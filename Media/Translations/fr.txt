@@ -50,6 +50,7 @@ SCRIPT_FINISHED_SUCCESSFULLY: Script exécuté avec succès.
 SCRIPT_FINISHED_UNSUCCESSFULLY: Script exécuté sans succès.
 TEST_SCRIPT: TESTER LE SCRIPT
 MODIFYING: EN COURS DE MODIFICATION
+EVALUATING: EN TRAIN D'ANALYSER LA MAP
 ACTIONS: ACTIONS
 PROBLEMS: PROBLÈMES
 PROBLEM: PROBLÈME
@@ -76,6 +77,10 @@ CHECKPOINTLESS_DESCRIPTION: Enlève tous les checkpoints sans les remplacer.
 COMEBACK_DESCRIPTION: Remplace le départ par un bloc multilap et l'arrivée par un checkpoint.
 NOCP_DESCRIPTION: Remplace tous les checkpoints par le bloc de route sans checkpoint.
 
+READING_ALL_STARTS: En train de chercher les blocs de départ
+READING_ALL_MULTILAPS: En train de chercher les blocs multilap
+READING_ALL_FINISHES: En train de chercher les blocs de finish
+CONSIDERING_MULTILAP_TRACK: En train de chercher si la map est une multilap
 CHECKPOINT_FOUND: Checkpoint trouvé.
 replaced_with: remplacé par
 
