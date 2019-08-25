@@ -82,7 +82,7 @@ NOCP_DESCRIPTION: Remplace tous les checkpoints par le bloc de route sans checkp
 SEARCHING_ALL_STARTS: Recherche des blocs de départ en cours
 SEARCHING_ALL_MULTILAPS: Recherche des blocs multilap en cours
 SEARCHING_ALL_FINISHES: Recherche des blocs de finish en cours
-SEARCHING_MAP_INFO: Recherche d'informations sur la map
+SEARCHING_MAP_INFO: Recherche d'informations sur la map en cours
 CONSIDERING_MULTILAP_TRACK: En train de chercher si la map est une multilap
 CHECKPOINT_FOUND: Checkpoint trouvé.
 replaced_with: remplacé par
