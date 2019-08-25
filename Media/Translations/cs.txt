@@ -58,6 +58,8 @@ FATAL_PROBLEM: FATÁLNÍ PROBLÉM
 LEAVE: ODEJÍT
 NEXT: DALŠÍ
 POSSIBLE_SOLUTIONS: MOŽNÁ ŘEŠENÍ
+SCRIPT_HAS_CRASHED: SKRIPT HAVAROVAL
+CHECK_CONSOLE: PODÍVEJ SE DO KONZOLE STISKNUTÍM CTRL+G
 
 NOT_COMPUTED: NEVYPOČÍTANÉ
 VERY_FAST: VELMI RYCHLÉ
@@ -80,6 +82,7 @@ NOCP_DESCRIPTION: Vymení všechny checkpointy za jejich variantu cesty.
 SEARCHING_ALL_STARTS: Hledám všechny starty
 SEARCHING_ALL_MULTILAPS: Hledám všechny multilapy
 SEARCHING_ALL_FINISHES: Hledám všechny cíle
+SEARCHING_MAP_INFO: Hledám informace o mapě
 CONSIDERING_MULTILAP_TRACK: Zhodnocuji, jestli je trať na víc kol
 CHECKPOINT_FOUND: Checkpoint nalezen.
 replaced_with: vyměněn za
