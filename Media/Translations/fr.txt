@@ -116,7 +116,7 @@ PROBLEM_BLOCK_MISSING_SOLUTION_1: Contacte les auteurs de Challenge pour ajouter
 PROBLEM_BLOCK_MISSING_SOLUTION_2: Ajoute le bloc toi-même via le créateur de blocs ou le mode macrobloc.
 PROBLEM_BLOCK_MISSING_SOLUTION_3: Place un bloc similaire qui fonctionnera de la même manière.
 PROBLEM_BLOCK_MISSING_SOLUTION_4: Attends que Nadeo ajoute ce bloc.
-PROBLEM_NO_CHECKPOINT": Pas de checkpoint.
+PROBLEM_NO_CHECKPOINT: Pas de checkpoint.
 PROBLEM_NO_CHECKPOINT_LONG: Ce circuit n'a pas de checkpoint.
 PROBLEM_CANNOT_REMOVE_CHECKPOINT: Impossible d'effacer le checkpoint.
 PROBLEM_CANNOT_REMOVE_CHECKPOINT_LONG: Ce checkpoint ne peut pas être effacé via le script. Le bloc ou l'item a probablement été placé de manière bizarre ou en mode fantôme.
