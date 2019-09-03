@@ -33,6 +33,15 @@ SCORE: SCORE
 RESPAWNS: RESPAWNS
 GHOSTS: GHOSTS
 None: None
+HEADING_OVER_TO: HEADING OVER TO
+YOU_HAVE_BEEN_BANNED: YOU HAVE BEEN BANNED
+REASON: REASON
+CRITICAL_UPDATE: CRITICAL UPDATE
+NEW_UPDATE: NEW UPDATE
+kicking_in_5_seconds: kicking in 5 seconds
+ACCEPT_CRITICAL_UPDATE: You have to be kicked and accept the update. I'm so sorry for the problem.
+SERVICE_SHUTDOWN: SERVICE SHUTDOWN
+SAYS_TO_YOU: SAYS TO YOU
 
 by: by
 modified_by: modified by

@@ -33,6 +33,15 @@ SCORE: SKÓRE
 RESPAWNS: RESPAWNY
 GHOSTS: DUCHOVÉ
 None: Nic
+HEADING_OVER_TO: MÍŘÍME NA
+YOU_HAVE_BEEN_BANNED: BYL JSI ZABANOVÁN
+REASON: DŮVOD
+CRITICAL_UPDATE: KRITICKÁ AKTUALIZACE
+NEW_UPDATE: NOVÁ AKTUALIZACE
+kicking_in_5_seconds: vyhazuji za 5 sekund
+ACCEPT_CRITICAL_UPDATE: Musíš být vyhozen a přijmout aktualizaci. Moc se omlouvám za problém.
+SERVICE_SHUTDOWN: SERVIS DOČASNĚ VYPNUT
+SAYS_TO_YOU: TI ŘÍKÁ
 
 by: od
 modified_by: modifikoval
