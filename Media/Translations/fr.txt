@@ -33,6 +33,15 @@ SCORE: SCORE
 RESPAWNS: RESPAWNS
 GHOSTS: FANTÔMES
 None: Aucun
+HEADING_OVER_TO: EN TRAIN D'ALLER VERS
+YOU_HAVE_BEEN_BANNED: VOUS AVEZ ÉTÉ BANNI
+REASON: RAISON
+CRITICAL_UPDATE: MISE À JOUR CRITIQUE
+NEW_UPDATE: NOUVELLE MISE À JOUR
+kicking_in_5_seconds: kick dans 5 secondes
+ACCEPT_CRITICAL_UPDATE: Tu dois être kick et accepter la mise à jour. Je suis désolé pour le problème.
+SERVICE_SHUTDOWN: LE SERVICE A FERMÉ
+SAYS_TO_YOU: VOUS DIT
 
 by: par
 modified_by: modifié par
@@ -99,38 +108,38 @@ SCRIPT_NOTE: Tout le code écrit et publié est disponible en open-source, ce qu
 PROBLEM_MULTILAP_TRACK: Ce circuit est un multilap
 PROBLEM_MULTILAP_TRACK_LONG_REVERSE: Ce circuit est un multilap qui n'est pas considéré comme un tour avec une ou plusieures arrivées. Ce circuit ne peut pas être inversé.
 PROBLEM_MULTILAP_TRACK_LONG_CHECKPOINTLESS: Ce circuit est un multilap qui n'est pas considéré comme un tour avec une ou plusieures arrivées. Ce circuit ne peut pas être Checkpointless.
-PROBLEM_MULTIPLE_FINISHES: The map has more than one finish.
-PROBLEM_MULTIPLE_FINISHES_LONG: Ce circuit a plusieures arrivées. Le script ne peut pas automatiser le processus de remplacement d'arrivée.
-PROBLEM_MULTIPLE_FINISHES_SOLUTION_1: Replace cette arrivée par un départ du même type.
-PROBLEM_MULTIPLE_FINISHES_SOLUTION_2: Replace cette arrivée par un départ du même type et effacer les arrivées restantes.
+PROBLEM_MULTIPLE_FINISHES: Le circuit a plus qu'une arrivée
+PROBLEM_MULTIPLE_FINISHES_LONG: Ce circuit a plusieurs arrivées. Le script ne peut pas automatiser le processus de remplacement d'arrivée.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_1: Remplacer cette arrivée par un départ du même type.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_2: Remplacer cette arrivée par un départ du même type et effacer les arrivées restantes.
 PROBLEM_CANNOT_REPLACE_MULTILAP: Impossible de remplacer le multilap.
 PROBLEM_CANNOT_REPLACE_MULTILAP_LONG: Le multilap est un item. Le script peut probablement l'effacer, mais ne peut pas placer un départ du même type.
-PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1: Replace le bloc de multilap manuellement par une possible arrivée du même type.
+PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1: Remplacer le bloc de multilap manuellement par une possible arrivée du même type.
 PROBLEM_CANNOT_REPLACE_START: Impossible de remplacer le départ.
 PROBLEM_CANNOT_REPLACE_START_LONG: Le départ est un item. Le script peut probablement l'effacer, mais ne peut pas placer une arrivée du même type.
 PROBLEM_CANNOT_REPLACE_START_MULTILAP_LONG: Le départ est un item. Le script peut probablement l'effacer, mais ne peut pas placer un bloc de multilap du même type.
-PROBLEM_CANNOT_REPLACE_START_SOLUTION_1: Replace le bloc de départ manuellement par une possible arrivée du même type.
-PROBLEM_CANNOT_REPLACE_START_MULTILAP_SOLUTION_1: Replace le bloc de départ manuellement par un possible bloc de multilap du même type.
+PROBLEM_CANNOT_REPLACE_START_SOLUTION_1: Remplacer le bloc de départ manuellement par une possible arrivée du même type.
+PROBLEM_CANNOT_REPLACE_START_MULTILAP_SOLUTION_1: Remplacer le bloc de départ manuellement par un possible bloc de multilap du même type.
 PROBLEM_CANNOT_REPLACE_FINISH: Impossible de remplacer l'arrivée.
 PROBLEM_CANNOT_REPLACE_FINISH_LONG: L'arrivée est un item. Le script peut probablement l'effacer, mais ne peut pas placer un départ du même type.
-PROBLEM_CANNOT_REPLACE_FINISH_SOLUTION_1: Replace le bloc d'arrivée manuellement par un possible départ du même type.
+PROBLEM_CANNOT_REPLACE_FINISH_SOLUTION_1: Remplacer le bloc d'arrivée manuellement par un possible départ du même type.
 PROBLEM_CANNOT_ADJUST_ONELAP: Impossible d'ajuster le mode onelap.
 PROBLEM_CANNOT_ADJUST_ONELAP_LONG_CHECKPOINTLESS: Le multilap est un item. Le script peut probablement l'effacer, mais ne peut pas placer un départ du même type. Le remplacer par un départ du même type est demandé pour rendre le Checkpointless valide.
-PROBLEM_CANNOT_ADJUST_ONELAP_SOLUTION_1: Replace le bloc de multilap manuellement par un possible départ du même type.
+PROBLEM_CANNOT_ADJUST_ONELAP_SOLUTION_1: Remplacer le bloc de multilap manuellement par un possible départ du même type.
 PROBLEM_BLOCK_MISSING: Bloc manquant
 PROBLEM_BLOCK_MISSING_LONG: Un bloc manque dans l'actuel set de blocs.
-PROBLEM_BLOCK_MISSING_SOLUTION_1: Contacte les auteurs de Challenge pour ajouter le bloc.
-PROBLEM_BLOCK_MISSING_SOLUTION_2: Ajoute le bloc toi-même via le créateur de blocs ou le mode macrobloc.
-PROBLEM_BLOCK_MISSING_SOLUTION_3: Place un bloc similaire qui fonctionnera de la même manière.
-PROBLEM_BLOCK_MISSING_SOLUTION_4: Attends que Nadeo ajoute ce bloc.
+PROBLEM_BLOCK_MISSING_SOLUTION_1: Contacter les auteurs de Challenge pour ajouter le bloc.
+PROBLEM_BLOCK_MISSING_SOLUTION_2: Ajouter le bloc toi-même via le créateur de blocs ou le mode macrobloc.
+PROBLEM_BLOCK_MISSING_SOLUTION_3: Placer un bloc similaire qui fonctionnera de la même manière.
+PROBLEM_BLOCK_MISSING_SOLUTION_4: Attendre que Nadeo ajoute ce bloc.
 PROBLEM_NO_CHECKPOINT: Pas de checkpoint.
 PROBLEM_NO_CHECKPOINT_LONG: Ce circuit n'a pas de checkpoint.
 PROBLEM_CANNOT_REMOVE_CHECKPOINT: Impossible d'effacer le checkpoint.
 PROBLEM_CANNOT_REMOVE_CHECKPOINT_LONG: Ce checkpoint ne peut pas être effacé via le script. Le bloc ou l'item a probablement été placé de manière bizarre ou en mode fantôme.
-PROBLEM_CANNOT_REMOVE_CHECKPOINT_SOLUTION_1: Efface le checkpoint manuellement.
+PROBLEM_CANNOT_REMOVE_CHECKPOINT_SOLUTION_1: Effacer le checkpoint manuellement.
 PROBLEM_CANNOT_REMOVE_START: Impossible d'effacer le départ.
 PROBLEM_CANNOT_REMOVE_START_LONG: Ce départ ne peut pas être effacé via le script. Le bloc ou l'item a probablement été placé de manière bizarre ou en mode fantôme.
-PROBLEM_CANNOT_REMOVE_START_SOLUTION_1: Efface le départ manuellement
+PROBLEM_CANNOT_REMOVE_START_SOLUTION_1: Effacer le départ manuellement
 PROBLEM_CANNOT_PLACE_GHOSTBLOCK: Impossible de placer le bloc en mode fantôme.
 
 STUNT_STRAIGHT_JUMP: STRAIGHT JUMP
