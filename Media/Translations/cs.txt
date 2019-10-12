@@ -177,6 +177,7 @@ PROBLEM_MULTIPLE_FINISHES: Mapa má víc než jeden cíl.
 PROBLEM_MULTIPLE_FINISHES_LONG: Tato trať má víc cílů. Skript nedokáže zautomatizovat výměnu cíle.
 PROBLEM_MULTIPLE_FINISHES_SOLUTION_1: Vyměň tento cíl za jeho start variantu.
 PROBLEM_MULTIPLE_FINISHES_SOLUTION_2: Vyměň tento cíl za jeho start variantu a odstraň zbývající cíle.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_3: Vyměň tento cíl za jeho start variantu a vypni (zakaž) zbývající cíle.
 PROBLEM_CANNOT_REPLACE_MULTILAP: Nelze vyměnit multilap.
 PROBLEM_CANNOT_REPLACE_MULTILAP_LONG: Multilap je item. Skript ho sice pravděpodobně dokáže odstranit, ale neumí položit jeho start variantu.
 PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1: Vyměň multilap item manuálně za jeho možný podobný cíl.
