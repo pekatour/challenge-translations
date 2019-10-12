@@ -177,6 +177,7 @@ PROBLEM_MULTIPLE_FINISHES: The map has more than one finish.
 PROBLEM_MULTIPLE_FINISHES_LONG: This track has multiple finishes. Script is not able to automate the finish replacement process.
 PROBLEM_MULTIPLE_FINISHES_SOLUTION_1: Replace this finish with its start variant.
 PROBLEM_MULTIPLE_FINISHES_SOLUTION_2: Replace this finish with its start variant and remove the remaining finishes.
+PROBLEM_MULTIPLE_FINISHES_SOLUTION_3: Replace this finish with its start variant and disable remaining finishes.
 PROBLEM_CANNOT_REPLACE_MULTILAP: Cannot replace multilap.
 PROBLEM_CANNOT_REPLACE_MULTILAP_LONG: Multilap is an item. Script can probably remove it, but can't place its start variant.
 PROBLEM_CANNOT_REPLACE_MULTILAP_SOLUTION_1: Replace the multilap item manually with a possible finish variant.
@@ -295,3 +296,7 @@ AUTHBETA_REQUESTTOKEN: REQUESTING AUTH TOKEN
 AUTHBETA_NOTPART: YOU'RE NOT PART OF THE BETA
 AUTHBETA_CONNECTIONERROR: CONNECTION ERROR
 AUTHBETA_CONNECTIONLONG: THIS TAKES LONGER THAN IT SHOULD
+
+COMING_SOON: COMING SOON
+EXACT_DATE_SOON: EXACT DATE TO BE YET ANNOUNCED
+LETS_GO: LET'S GO
