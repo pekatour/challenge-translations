@@ -167,6 +167,7 @@ SEARCHING_MAP_INFO: Hledám informace o mapě
 CONSIDERING_MULTILAP_TRACK: Zhodnocuji, jestli je trať na víc kol
 CHECKPOINT_FOUND: Checkpoint nalezen.
 replaced_with: vyměněn za
+connected_with: připojen s
 
 SCRIPT_NOTE: Všechen napsaný a publikovaný kód je dostupný open source, což znamená, že všichni mohou vidět tvoje kódovací schopnosti. Byl jsi varován.
 

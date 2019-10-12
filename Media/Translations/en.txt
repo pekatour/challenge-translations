@@ -167,6 +167,7 @@ SEARCHING_MAP_INFO: Searching map info
 CONSIDERING_MULTILAP_TRACK: Considering multilap track
 CHECKPOINT_FOUND: Checkpoint found.
 replaced_with: replaced with
+connected_with: connected with
 	
 SCRIPT_NOTE: All written and published code is available open source, which means everyone can see your coding skills. You have been warned.
 
