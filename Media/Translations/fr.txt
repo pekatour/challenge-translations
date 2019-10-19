@@ -107,7 +107,7 @@ FUNCTIONS: FONCTIONS
 NOTIFICATION_TRY_CAMPAIGN_TITLE: Tu veux essayer la campagne?
 NOTIFICATION_TRY_CAMPAIGN_CONTENT: La plus large campagne de tous les temps contenant les Nadeo Reverse, Checkpointless et Reverse Checkpointless! Clique içi.
 NOTIFICATION_SKINS_TITLE: Pourquoi pas des skins?
-NOTIFICATION_SKINS_CONTENT: Le nouveau sélecteur de skin te permettra de changer ton skins pour chaque voiture. Clique içi pour être redirigé instantanément.
+NOTIFICATION_SKINS_CONTENT: Le nouveau sélecteur de skin te permettra de changer les skins de toutes les voitures. Clique içi pour être redirigé instantanément.
 
 by: par
 modified_by: modifié par
