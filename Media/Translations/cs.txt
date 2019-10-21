@@ -98,6 +98,7 @@ UNLOCKED_IN: ODEMČENO ZA
 BUY_ENVIMIX_LICENSE: KOUPIT ENVIMIX LICENCI
 EXPLORE: PROZKOUMAT
 VALIDATED_BY: ZVALIDOVAL
+QUICK_PLAY: RYCHLÁ HRA
 
 GETTING_STARTED: ZAČÍNÁME
 STRUCTURES: STRUKTURY
@@ -108,6 +109,8 @@ NOTIFICATION_TRY_CAMPAIGN_TITLE: Chceš zkusit kampaň?
 NOTIFICATION_TRY_CAMPAIGN_CONTENT: Největší kampaň vůbec obsahující Nadeo Reverse, Checkpointless a Reverse Checkpointless! Klikni.
 NOTIFICATION_SKINS_TITLE: Co třeba nějakej vzhled?
 NOTIFICATION_SKINS_CONTENT: Novej výběr skinů ti zpřístupní změnit skin pro každé auto. Klikni zde pro okamžité přesměrování.
+NOTIFICATION_DISABLED_FINISHES_TITLE: Některé cíle jsou zakázány!
+NOTIFICATION_DISABLED_FINISHES_CONTENT: Tato mapa nepovoluje některé cíle. Zjisti jaké to jsou zapnutím cedulek (většinou klávesa nad Tabem).
 
 by: od
 modified_by: modifikoval

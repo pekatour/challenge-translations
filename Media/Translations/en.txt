@@ -98,6 +98,7 @@ UNLOCKED_IN: UNLOCKED IN
 BUY_ENVIMIX_LICENSE: BUY ENVIMIX LICENSE
 EXPLORE: EXPLORE
 VALIDATED_BY: VALIDATED BY
+QUICK_PLAY: QUICK PLAY
 
 GETTING_STARTED: GETTING STARTED
 STRUCTURES: STRUCTURES
@@ -108,6 +109,8 @@ NOTIFICATION_TRY_CAMPAIGN_TITLE: Wanna try the campaign?
 NOTIFICATION_TRY_CAMPAIGN_CONTENT: The largest campaign ever packed with Nadeo Reverse, Checkpointless, and Reverse Checkpointless! Click here.
 NOTIFICATION_SKINS_TITLE: What about skins?
 NOTIFICATION_SKINS_CONTENT: New skin selector will allow you to change skin for every car. Click here to redirect instantly.
+NOTIFICATION_DISABLED_FINISHES_TITLE: Some finishes are disabled!
+NOTIFICATION_DISABLED_FINISHES_CONTENT: This map doesn't allow certain finishes. Be sure to check them by enabling markers (usually key above Tab).
 
 by: by
 modified_by: modified by
